@@ -74,6 +74,11 @@ Färgen #ffffff är hårdkodad och skall omvandlas till variable --color-surface
 Färgen #b9a58f är hårdkodad och skall omvandlas till variable.
 Färgen ger dessutom inte en korrekt kontrast och skall därför ändras till #61574b som ger 7.0:1 i kontrast.
 
+#### F13
+
+Oanvänd klass/id i css. Om-oss i html-filen är den döpt till about-us.
+korrigerar till namn från html-fil
+
 ### css/layout.css
 
 #### F10
