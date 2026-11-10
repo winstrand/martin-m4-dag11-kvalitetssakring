@@ -38,6 +38,11 @@ Ej fungerande länk :
 Länken till kontaktsidan fungerarinte, pågrund av att URLen pekar på ikke existerande fil.
 Rätt URL: kontakt.html
 
+#### F8
+
+Knapp för nyhets premuration är div, vilket inte är tillåtet
+Rätt element för denna typ av koppling skall vara button
+
 ### kontakt.html
 
 #### F5
