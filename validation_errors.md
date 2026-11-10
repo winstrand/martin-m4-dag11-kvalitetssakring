@@ -79,3 +79,9 @@ Färgen ger dessutom inte en korrekt kontrast och skall därför ändras till #6
 #### F10
 
 Färgen #ffffff är hårdkodad och skall omvandlas till variable --color-surface
+
+### css-filer
+
+#### F12
+
+Avstånd är hårkodade och inte variabler, konverterar dessa till variabler
