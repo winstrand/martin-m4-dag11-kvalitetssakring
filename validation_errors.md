@@ -32,6 +32,12 @@ From line 49, column 9; to line 49, column 12
 
 > ↩ <h5>Ostmac
 
+#### F7
+
+Ej fungerande länk :
+Länken till kontaktsidan fungerarinte, pågrund av att URLen pekar på ikke existerande fil.
+Rätt URL: kontakt.html
+
 ### kontakt.html
 
 #### F5
