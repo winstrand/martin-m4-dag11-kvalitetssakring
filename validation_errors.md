@@ -62,3 +62,20 @@ If the HTML checker has misidentified the language of this document, please file
 
 Error: The value of the for attribute of the label element must be the ID of a non-hidden form control.
 From line 35, column 9; to line 35, column 28 > <label for="e-post">E-post
+
+### css/compontents.css
+
+#### F10
+
+Färgen #ffffff är hårdkodad och skall omvandlas till variable --color-surface
+
+#### F11
+
+Färgen #b9a58f är hårdkodad och skall omvandlas till variable.
+Färgen ger dessutom inte en korrekt kontrast och skall därför ändras till #61574b som ger 7.0:1 i kontrast.
+
+### css/layout.css
+
+#### F10
+
+Färgen #ffffff är hårdkodad och skall omvandlas till variable --color-surface

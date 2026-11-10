@@ -1,17 +1,17 @@
 /* Komponenter: återanvändbara delar (nav-länkar, kort, knapp, hero, formulär) */
 nav a {
-  color: #ffffff;
+  color: var(--color-surface);
   font-weight: 600;
 }
 
 footer a {
-  color: #ffffff;
+  color: var(--color-surface);
 }
 
 .knapp {
   display: inline-block;
   background-color: var(--color-primary);
-  color: #ffffff;
+  color: var(--color-surface);
   padding: 12px 20px;
   border: 0;
   border-radius: var(--radius-sm);
@@ -22,7 +22,7 @@ footer a {
 
 .knapp:hover {
   background-color: var(--color-primary-dark);
-  color: #ffffff;
+  color: var(--color-surface);
 }
 
 /* Kort */
@@ -86,10 +86,10 @@ label {
   margin-left: var(--space-1);
 }
 
-input[type="text"],
-input[type="email"],
-input[type="tel"],
-input[type="date"],
+input[type='text'],
+input[type='email'],
+input[type='tel'],
+input[type='date'],
 select,
 textarea {
   width: 100%;
