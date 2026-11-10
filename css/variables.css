@@ -13,10 +13,11 @@
   --color-border: #e3d5c3;
   --color-input-border: #8a7a6a;
   --color-focus: #1a73e8;
+  --color-primary-hover: #ffcccc;
 
   /* Typografi */
-  --font-body: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  --font-heading: Georgia, "Times New Roman", serif;
+  --font-body: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-heading: Georgia, 'Times New Roman', serif;
   --fs-base: 1rem;
   --fs-lead: 1.125rem;
   --fs-h3: 1.25rem;

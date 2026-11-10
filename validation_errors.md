@@ -43,6 +43,11 @@ Rätt URL: kontakt.html
 Knapp för nyhets premuration är div, vilket inte är tillåtet
 Rätt element för denna typ av koppling skall vara button
 
+#### F9
+
+Kontrast fel, länkar i header och footer har i kontrast vid hover ett värde som understiger 4.5:1
+Lägg till ny css-variabel för --color-primary-hover med värde #ffcccc
+
 ### kontakt.html
 
 #### F5
